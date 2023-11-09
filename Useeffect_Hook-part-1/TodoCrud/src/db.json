@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "title": "1",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "2",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "3",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "4",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "5",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "shubham",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "jack",
+      "status": false,
+      "id": 9
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
